@@ -1,0 +1,224 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\JONAS\\Desktop\\PREFINALS_AUTH_Sumbingco_Madieson\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{503823A5-4AD6-4A98-8479-950250C0E1AB}|AuthServer\\AuthServer.csproj|c:\\users\\jonas\\desktop\\prefinals_auth_sumbingco_madieson\\authserver\\core\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503823A5-4AD6-4A98-8479-950250C0E1AB}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\core\\authservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503823A5-4AD6-4A98-8479-950250C0E1AB}|AuthServer\\AuthServer.csproj|c:\\users\\jonas\\desktop\\prefinals_auth_sumbingco_madieson\\authserver\\secret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503823A5-4AD6-4A98-8479-950250C0E1AB}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\secret.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503823A5-4AD6-4A98-8479-950250C0E1AB}|AuthServer\\AuthServer.csproj|c:\\users\\jonas\\desktop\\prefinals_auth_sumbingco_madieson\\authserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503823A5-4AD6-4A98-8479-950250C0E1AB}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B116B91-7038-4737-AC87-83D52C41273C}|ProtectedApi\\ProtectedApi.csproj|c:\\users\\jonas\\desktop\\prefinals_auth_sumbingco_madieson\\protectedapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{1B116B91-7038-4737-AC87-83D52C41273C}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B116B91-7038-4737-AC87-83D52C41273C}|ProtectedApi\\ProtectedApi.csproj|c:\\users\\jonas\\desktop\\prefinals_auth_sumbingco_madieson\\protectedapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B116B91-7038-4737-AC87-83D52C41273C}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B116B91-7038-4737-AC87-83D52C41273C}|ProtectedApi\\ProtectedApi.csproj|c:\\users\\jonas\\desktop\\prefinals_auth_sumbingco_madieson\\protectedapi\\protectedapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{1B116B91-7038-4737-AC87-83D52C41273C}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\protectedapi.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B116B91-7038-4737-AC87-83D52C41273C}|ProtectedApi\\ProtectedApi.csproj|c:\\users\\jonas\\desktop\\prefinals_auth_sumbingco_madieson\\protectedapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1B116B91-7038-4737-AC87-83D52C41273C}|ProtectedApi\\ProtectedApi.csproj|solutionrelative:protectedapi\\controllers\\valuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503823A5-4AD6-4A98-8479-950250C0E1AB}|AuthServer\\AuthServer.csproj|c:\\users\\jonas\\desktop\\prefinals_auth_sumbingco_madieson\\authserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{503823A5-4AD6-4A98-8479-950250C0E1AB}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503823A5-4AD6-4A98-8479-950250C0E1AB}|AuthServer\\AuthServer.csproj|c:\\users\\jonas\\desktop\\prefinals_auth_sumbingco_madieson\\authserver\\core\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503823A5-4AD6-4A98-8479-950250C0E1AB}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\core\\iauthservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503823A5-4AD6-4A98-8479-950250C0E1AB}|AuthServer\\AuthServer.csproj|c:\\users\\jonas\\desktop\\prefinals_auth_sumbingco_madieson\\authserver\\core\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503823A5-4AD6-4A98-8479-950250C0E1AB}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\core\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503823A5-4AD6-4A98-8479-950250C0E1AB}|AuthServer\\AuthServer.csproj|c:\\users\\jonas\\desktop\\prefinals_auth_sumbingco_madieson\\authserver\\core\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503823A5-4AD6-4A98-8479-950250C0E1AB}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\core\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{503823A5-4AD6-4A98-8479-950250C0E1AB}|AuthServer\\AuthServer.csproj|c:\\users\\jonas\\desktop\\prefinals_auth_sumbingco_madieson\\authserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{503823A5-4AD6-4A98-8479-950250C0E1AB}|AuthServer\\AuthServer.csproj|solutionrelative:authserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 7,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProtectedApi.http",
+              "DocumentMoniker": "C:\\Users\\JONAS\\Desktop\\PREFINALS_AUTH_Sumbingco_Madieson\\ProtectedApi\\ProtectedApi.http",
+              "RelativeDocumentMoniker": "ProtectedApi\\ProtectedApi.http",
+              "ToolTip": "C:\\Users\\JONAS\\Desktop\\PREFINALS_AUTH_Sumbingco_Madieson\\ProtectedApi\\ProtectedApi.http",
+              "RelativeToolTip": "ProtectedApi\\ProtectedApi.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-05-31T05:11:56.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ValuesController.cs",
+              "DocumentMoniker": "C:\\Users\\JONAS\\Desktop\\PREFINALS_AUTH_Sumbingco_Madieson\\ProtectedApi\\Controllers\\ValuesController.cs",
+              "RelativeDocumentMoniker": "ProtectedApi\\Controllers\\ValuesController.cs",
+              "ToolTip": "C:\\Users\\JONAS\\Desktop\\PREFINALS_AUTH_Sumbingco_Madieson\\ProtectedApi\\Controllers\\ValuesController.cs",
+              "RelativeToolTip": "ProtectedApi\\Controllers\\ValuesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T05:06:17.84Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\JONAS\\Desktop\\PREFINALS_AUTH_Sumbingco_Madieson\\ProtectedApi\\appsettings.json",
+              "RelativeDocumentMoniker": "ProtectedApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\JONAS\\Desktop\\PREFINALS_AUTH_Sumbingco_Madieson\\ProtectedApi\\appsettings.json",
+              "RelativeToolTip": "ProtectedApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-31T05:05:02.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JONAS\\Desktop\\PREFINALS_AUTH_Sumbingco_Madieson\\ProtectedApi\\Program.cs",
+              "RelativeDocumentMoniker": "ProtectedApi\\Program.cs",
+              "ToolTip": "C:\\Users\\JONAS\\Desktop\\PREFINALS_AUTH_Sumbingco_Madieson\\ProtectedApi\\Program.cs",
+              "RelativeToolTip": "ProtectedApi\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABcAAABPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T05:04:57.883Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\JONAS\\Desktop\\PREFINALS_AUTH_Sumbingco_Madieson\\AuthServer\\appsettings.json",
+              "RelativeDocumentMoniker": "AuthServer\\appsettings.json",
+              "ToolTip": "C:\\Users\\JONAS\\Desktop\\PREFINALS_AUTH_Sumbingco_Madieson\\AuthServer\\appsettings.json",
+              "RelativeToolTip": "AuthServer\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-05-31T05:03:24.173Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IAuthService.cs",
+              "DocumentMoniker": "C:\\Users\\JONAS\\Desktop\\PREFINALS_AUTH_Sumbingco_Madieson\\AuthServer\\Core\\IAuthService.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Core\\IAuthService.cs",
+              "ToolTip": "C:\\Users\\JONAS\\Desktop\\PREFINALS_AUTH_Sumbingco_Madieson\\AuthServer\\Core\\IAuthService.cs",
+              "RelativeToolTip": "AuthServer\\Core\\IAuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T05:03:18.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\JONAS\\Desktop\\PREFINALS_AUTH_Sumbingco_Madieson\\AuthServer\\Core\\User.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Core\\User.cs",
+              "ToolTip": "C:\\Users\\JONAS\\Desktop\\PREFINALS_AUTH_Sumbingco_Madieson\\AuthServer\\Core\\User.cs",
+              "RelativeToolTip": "AuthServer\\Core\\User.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T05:03:17.61Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AuthService.cs",
+              "DocumentMoniker": "C:\\Users\\JONAS\\Desktop\\PREFINALS_AUTH_Sumbingco_Madieson\\AuthServer\\Core\\AuthService.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Core\\AuthService.cs",
+              "ToolTip": "C:\\Users\\JONAS\\Desktop\\PREFINALS_AUTH_Sumbingco_Madieson\\AuthServer\\Core\\AuthService.cs",
+              "RelativeToolTip": "AuthServer\\Core\\AuthService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T05:01:13.825Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\JONAS\\Desktop\\PREFINALS_AUTH_Sumbingco_Madieson\\AuthServer\\Program.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Program.cs",
+              "ToolTip": "C:\\Users\\JONAS\\Desktop\\PREFINALS_AUTH_Sumbingco_Madieson\\AuthServer\\Program.cs",
+              "RelativeToolTip": "AuthServer\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T05:00:52.543Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Secret.cs",
+              "DocumentMoniker": "C:\\Users\\JONAS\\Desktop\\PREFINALS_AUTH_Sumbingco_Madieson\\AuthServer\\Secret.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Secret.cs",
+              "ToolTip": "C:\\Users\\JONAS\\Desktop\\PREFINALS_AUTH_Sumbingco_Madieson\\AuthServer\\Secret.cs",
+              "RelativeToolTip": "AuthServer\\Secret.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAABlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T05:00:56.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\JONAS\\Desktop\\PREFINALS_AUTH_Sumbingco_Madieson\\AuthServer\\Core\\UserService.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Core\\UserService.cs",
+              "ToolTip": "C:\\Users\\JONAS\\Desktop\\PREFINALS_AUTH_Sumbingco_Madieson\\AuthServer\\Core\\UserService.cs",
+              "RelativeToolTip": "AuthServer\\Core\\UserService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T05:03:16.702Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\JONAS\\Desktop\\PREFINALS_AUTH_Sumbingco_Madieson\\AuthServer\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "AuthServer\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\JONAS\\Desktop\\PREFINALS_AUTH_Sumbingco_Madieson\\AuthServer\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "AuthServer\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-31T05:01:07.255Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

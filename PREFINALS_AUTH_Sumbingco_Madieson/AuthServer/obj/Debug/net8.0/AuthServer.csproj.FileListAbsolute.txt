@@ -1,0 +1,80 @@
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\bin\Debug\net8.0\appsettings.Development.json
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\bin\Debug\net8.0\appsettings.json
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\bin\Debug\net8.0\AuthServer.exe
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\bin\Debug\net8.0\AuthServer.deps.json
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\bin\Debug\net8.0\AuthServer.runtimeconfig.json
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\bin\Debug\net8.0\AuthServer.dll
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\bin\Debug\net8.0\AuthServer.pdb
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\obj\Debug\net8.0\AuthServer.csproj.AssemblyReference.cache
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\obj\Debug\net8.0\AuthServer.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\obj\Debug\net8.0\AuthServer.AssemblyInfoInputs.cache
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\obj\Debug\net8.0\AuthServer.AssemblyInfo.cs
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\obj\Debug\net8.0\AuthServer.csproj.CoreCompileInputs.cache
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\obj\Debug\net8.0\AuthServer.MvcApplicationPartsAssemblyInfo.cs
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\obj\Debug\net8.0\AuthServer.MvcApplicationPartsAssemblyInfo.cache
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\obj\Debug\net8.0\staticwebassets.build.json
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\obj\Debug\net8.0\staticwebassets.development.json
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\obj\Debug\net8.0\staticwebassets\msbuild.AuthServer.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\obj\Debug\net8.0\staticwebassets\msbuild.build.AuthServer.props
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AuthServer.props
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AuthServer.props
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\obj\Debug\net8.0\scopedcss\bundle\AuthServer.styles.css
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\obj\Debug\net8.0\AuthServer.csproj.Up2Date
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\obj\Debug\net8.0\AuthServer.dll
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\obj\Debug\net8.0\refint\AuthServer.dll
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\obj\Debug\net8.0\AuthServer.pdb
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\obj\Debug\net8.0\AuthServer.genruntimeconfig.cache
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\AuthServer\obj\Debug\net8.0\ref\AuthServer.dll
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\bin\Debug\net8.0\appsettings.json
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\bin\Debug\net8.0\AuthServer.exe
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\bin\Debug\net8.0\AuthServer.deps.json
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\bin\Debug\net8.0\AuthServer.runtimeconfig.json
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\bin\Debug\net8.0\AuthServer.dll
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\bin\Debug\net8.0\AuthServer.pdb
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\obj\Debug\net8.0\AuthServer.csproj.AssemblyReference.cache
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\obj\Debug\net8.0\AuthServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\obj\Debug\net8.0\AuthServer.AssemblyInfoInputs.cache
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\obj\Debug\net8.0\AuthServer.AssemblyInfo.cs
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\obj\Debug\net8.0\AuthServer.csproj.CoreCompileInputs.cache
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\obj\Debug\net8.0\AuthServer.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\obj\Debug\net8.0\AuthServer.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\obj\Debug\net8.0\staticwebassets\msbuild.AuthServer.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\obj\Debug\net8.0\staticwebassets\msbuild.build.AuthServer.props
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.AuthServer.props
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.AuthServer.props
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\obj\Debug\net8.0\scopedcss\bundle\AuthServer.styles.css
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\obj\Debug\net8.0\AuthServer.csproj.Up2Date
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\obj\Debug\net8.0\AuthServer.dll
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\obj\Debug\net8.0\refint\AuthServer.dll
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\obj\Debug\net8.0\AuthServer.pdb
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\obj\Debug\net8.0\AuthServer.genruntimeconfig.cache
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\AuthServer\obj\Debug\net8.0\ref\AuthServer.dll

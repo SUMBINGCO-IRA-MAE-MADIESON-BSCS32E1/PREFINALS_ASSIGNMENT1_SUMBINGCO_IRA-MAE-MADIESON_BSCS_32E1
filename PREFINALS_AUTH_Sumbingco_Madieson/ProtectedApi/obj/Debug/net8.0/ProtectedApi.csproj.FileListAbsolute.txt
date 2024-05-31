@@ -1,0 +1,80 @@
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\bin\Debug\net8.0\appsettings.Development.json
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\bin\Debug\net8.0\appsettings.json
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\bin\Debug\net8.0\ProtectedApi.exe
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\bin\Debug\net8.0\ProtectedApi.deps.json
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\bin\Debug\net8.0\ProtectedApi.runtimeconfig.json
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\bin\Debug\net8.0\ProtectedApi.dll
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\bin\Debug\net8.0\ProtectedApi.pdb
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\obj\Debug\net8.0\ProtectedApi.csproj.AssemblyReference.cache
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\obj\Debug\net8.0\ProtectedApi.GeneratedMSBuildEditorConfig.editorconfig
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\obj\Debug\net8.0\ProtectedApi.AssemblyInfoInputs.cache
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\obj\Debug\net8.0\ProtectedApi.AssemblyInfo.cs
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\obj\Debug\net8.0\ProtectedApi.csproj.CoreCompileInputs.cache
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\obj\Debug\net8.0\ProtectedApi.MvcApplicationPartsAssemblyInfo.cs
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\obj\Debug\net8.0\ProtectedApi.MvcApplicationPartsAssemblyInfo.cache
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\obj\Debug\net8.0\staticwebassets.build.json
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\obj\Debug\net8.0\staticwebassets.development.json
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\obj\Debug\net8.0\staticwebassets\msbuild.ProtectedApi.Microsoft.AspNetCore.StaticWebAssets.props
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\obj\Debug\net8.0\staticwebassets\msbuild.build.ProtectedApi.props
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProtectedApi.props
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProtectedApi.props
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\obj\Debug\net8.0\staticwebassets.pack.json
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\obj\Debug\net8.0\scopedcss\bundle\ProtectedApi.styles.css
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\obj\Debug\net8.0\Protecte.6D13CE2E.Up2Date
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\obj\Debug\net8.0\ProtectedApi.dll
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\obj\Debug\net8.0\refint\ProtectedApi.dll
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\obj\Debug\net8.0\ProtectedApi.pdb
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\obj\Debug\net8.0\ProtectedApi.genruntimeconfig.cache
+D:\Visual studio project\PREFINALS_AUTH_Rizardo_Jonas\ProtectedApi\obj\Debug\net8.0\ref\ProtectedApi.dll
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\bin\Debug\net8.0\appsettings.json
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\bin\Debug\net8.0\ProtectedApi.exe
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\bin\Debug\net8.0\ProtectedApi.deps.json
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\bin\Debug\net8.0\ProtectedApi.runtimeconfig.json
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\bin\Debug\net8.0\ProtectedApi.dll
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\bin\Debug\net8.0\ProtectedApi.pdb
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\bin\Debug\net8.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\bin\Debug\net8.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\bin\Debug\net8.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\bin\Debug\net8.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\bin\Debug\net8.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\obj\Debug\net8.0\ProtectedApi.csproj.AssemblyReference.cache
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\obj\Debug\net8.0\ProtectedApi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\obj\Debug\net8.0\ProtectedApi.AssemblyInfoInputs.cache
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\obj\Debug\net8.0\ProtectedApi.AssemblyInfo.cs
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\obj\Debug\net8.0\ProtectedApi.csproj.CoreCompileInputs.cache
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\obj\Debug\net8.0\ProtectedApi.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\obj\Debug\net8.0\ProtectedApi.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\obj\Debug\net8.0\staticwebassets\msbuild.ProtectedApi.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\obj\Debug\net8.0\staticwebassets\msbuild.build.ProtectedApi.props
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.ProtectedApi.props
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.ProtectedApi.props
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\obj\Debug\net8.0\scopedcss\bundle\ProtectedApi.styles.css
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\obj\Debug\net8.0\Protecte.6D13CE2E.Up2Date
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\obj\Debug\net8.0\ProtectedApi.dll
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\obj\Debug\net8.0\refint\ProtectedApi.dll
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\obj\Debug\net8.0\ProtectedApi.pdb
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\obj\Debug\net8.0\ProtectedApi.genruntimeconfig.cache
+C:\Users\JONAS\Desktop\PREFINALS_AUTH_Sumbingco_Madieson\ProtectedApi\obj\Debug\net8.0\ref\ProtectedApi.dll
